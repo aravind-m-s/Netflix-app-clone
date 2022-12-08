@@ -1,0 +1,11 @@
+export 'package:netflix_application/presentation/home/widgets/title.dart';
+export 'package:netflix_application/presentation/home/widgets/images_widget.dart';
+export 'package:netflix_application/presentation/home/widgets/main_title_widget.dart';
+export 'package:netflix_application/presentation/home/widgets/list_image.dart';
+export 'package:netflix_application/presentation/home/widgets/number_image_list.dart';
+export 'package:netflix_application/presentation/home/widgets/single_number_image.dart';
+export 'package:netflix_application/presentation/home/widgets/number_widget.dart';
+export 'package:netflix_application/presentation/home/widgets/main_bottom.dart';
+export 'package:netflix_application/presentation/home/widgets/main_image_widget.dart';
+export 'package:netflix_application/presentation/home/widgets/top_widget.dart';
+export 'package:netflix_application/presentation/home/widgets/app_bar.dart';

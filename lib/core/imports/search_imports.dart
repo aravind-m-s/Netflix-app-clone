@@ -1,0 +1,9 @@
+export 'package:netflix_application/presentation/search/widgets/search_bar.dart';
+export 'package:netflix_application/presentation/search/widgets/grid_view_result.dart';
+export 'package:netflix_application/presentation/search/widgets/text_widget.dart';
+export 'package:netflix_application/presentation/search/widgets/search_result.dart';
+export 'package:netflix_application/presentation/search/widgets/tile_widget.dart';
+export 'package:netflix_application/presentation/search/widgets/search_image_widget.dart';
+export 'package:netflix_application/presentation/search/widgets/play_button.dart';
+export 'package:netflix_application/presentation/search/widgets/list_view.dart';
+export 'package:netflix_application/presentation/search/widgets/search_default.dart';
